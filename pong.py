@@ -3,7 +3,7 @@ import turtle
 wn = turtle.Screen()
 
 def test():
-  
+  pass
 
 
 def createPong(pos:int, shapesize:bool = True):
